@@ -48,4 +48,9 @@ Before starting, ensure you have the following:
 ---
 
 ## 📂 File Structure
-Asteroid-Game/ │ ├── index.html # Main HTML file ├── styles.css # Game styling ├── script.js # Game logic ├── README.md # Project readme file (you’re here!) ├── create-asteroid-game-using-html-css-and-javascript.gif # Demo GIF └── assets/ # (Optional) Folder for images, icons, etc.
+Asteroid-Game/ │ ├── index.html # Main HTML file 
+                 ├── styles.css # Game styling 
+                 ├── script.js # Game logic 
+                 ├── README.md # Project readme file (you’re here!) 
+                 ├── create-asteroid-game-using-html-css-and-javascript.gif # Demo GIF 
+                 └── assets/ # (Optional) Folder for images, icons, etc.
