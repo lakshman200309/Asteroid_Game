@@ -1,6 +1,6 @@
 # 🚀 Asteroid Game Using HTML, CSS, and JavaScript
 
-**By Faraz - April 04, 2025**  
+**By Lakshman - April 07, 2025**  
 A fun and simple Asteroid shooter game built using web technologies!  
 Blast away asteroids, dodge collisions, and rack up points in this retro-style arcade game.  
 
